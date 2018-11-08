@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://wooriapt.github.io/" target="_blank" title="blokchain List">
-    <img src="" title="blockchain-list - cryptocurrent resource collection" alt="blockchain-list"/>
+    <img src="https://avatars0.githubusercontent.com/u/7324773?s=40&v=4" title="blockchain-list - cryptocurrent resource collection" alt="blockchain-list"/>
   </a>
 
  
