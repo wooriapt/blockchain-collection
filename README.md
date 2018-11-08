@@ -16,7 +16,7 @@ Crypto currency and blockchain project and resource collection
 ### [Mining](./projects/mining.yml)
 ### [Useful Tools](./projects/useful-tools.yml)
 ### [Useless Tools](./projects/useless-tools.yml)
-### [YouTube Channels./projects/youtube-channels.yml)
+### [YouTube Channels](./projects/youtube-channels.yml)
 ### [Learning](./projects/learning.yml)
 ### [Books](./projects/books.yml)
 ### [For Developers](./projects/developers.yml)
