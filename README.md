@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://wooriapt.github.io/" target="_blank" title="blokchain List">
-    <img src="https://wooriapt.github.io/images/blockchain.jpg" title="blockchain-list - cryptocurrent resource collection" alt="blockchain-list"/>
+    <img src="" title="blockchain-list - cryptocurrent resource collection" alt="blockchain-list"/>
   </a>
 
  
@@ -11,7 +11,7 @@
         
       
 
- Crypto currency and blockchain project and resource collection
+ - Crypto currency and blockchain project and resource collection
 ### List of categories
 
 [People](./projects/people.yml)  
@@ -29,6 +29,6 @@
 [Useless Tools](./projects/useless-tools.yml)  
 [YouTube Channels](./projects/youtube-channels.yml)  
 [Learning](./projects/learning.yml)  
-[Books](./projects/books.yml  
+[Books](./projects/books.yml)  
 [For Developers](./projects/developers.yml)  
 [Podcasts](./projects/podcasts.yml)  
