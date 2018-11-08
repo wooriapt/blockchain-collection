@@ -1,6 +1,17 @@
 # blockchain-list
-Crypto currency and blockchain project and resource collection
 
+<p align="center">
+  <a href="https://wooriapt.github.io/" target="_blank" title="blokchain List">
+    <img src="https://wooriapt.github.io/images/blockchain.jpg" title="blockchain-list - cryptocurrent resource collection" alt="blockchain-list"/>
+  </a>
+  
+ 
+</p>
+
+        
+      
+
+ Crypto currency and blockchain project and resource collection
 ## List of categories
 
 ### [People](./projects/people.yml)
