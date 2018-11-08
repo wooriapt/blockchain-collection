@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://blokspot.io" target="_blank" title="blokspot">
+  <a href="http://blokspot.io" target="_blank" title="blokchain List">
     <img src="https://github.com/blokspot/blockchain-collection/raw/master/blokspot-github-artboard.png" title="blokspot - cryptocurrent resource collection" alt="blokspot"/>
   </a>
 </p>
